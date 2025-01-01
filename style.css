@@ -1,0 +1,87 @@
+* {
+    font-family: "Quicksand";
+
+}
+
+.nav-back {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    margin: 22px 0px !important;
+    padding: 12px 0px !important;
+}
+#nav-colorlib{
+    font-size: 2.5rem;
+    font-weight:500 ;
+}
+
+
+
+
+#list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.Boootstrap {
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.p-back {
+    background-color: rgb(249, 249, 249);
+    line-height: 50px;
+}
+
+.p-line {
+    font-size: 19px;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+.div-head {
+    background-color: rgb(244, 244, 244);
+    
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.fotter {
+    background-color: #262626;
+    color: #bdbdbd;
+
+
+}
+
+.div-p {
+    border-top: solid lightgray;
+    margin-top: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.div-p2 {
+    border-bottom: solid lightgray;
+}
+
+div>h5 {
+    padding-top: 15px;
+}
+
+div>h2 {
+    font-size: 60px;
+    color: white;
+    padding-top: 15px;
+}
+
+.fotter-l-p {
+    background-color: #222222;
+    padding: 20px;
+
+}
